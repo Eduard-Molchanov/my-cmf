@@ -1,8 +1,8 @@
 <?php
 
-// namespace db;
+namespace core;
 
-// use PDO;
+use PDO;
 
 
 

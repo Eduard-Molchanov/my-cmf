@@ -1,0 +1,16 @@
+{
+    "name": "eduar/my-cmf",
+    "authors": [
+        {
+            "name": "Eduard Molchanov",
+            "email": "eduard.molchanov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "core\\": "core/"
+        },
+        "files": ["core/functions.php"]
+    }
+}

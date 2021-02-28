@@ -1,5 +1,7 @@
 <?php
 
+namespace core;
+
 class x
 {
     public function __construct()
