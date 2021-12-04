@@ -14,4 +14,5 @@ $s = DataApi::getData("https://jsonplaceholder.typicode.com/posts");
 // print_r($s);
 // if($s==Null){echo 42;};
 // x::x($s);
+
 x($s);
